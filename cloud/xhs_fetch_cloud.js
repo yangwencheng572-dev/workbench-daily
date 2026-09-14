@@ -1,4 +1,4 @@
-// 云端版：小红书抓取（GitHub Actions）
+// 云端版：小红书抓取（GitHub Actions）—— 大学生/年轻人定位版
 // 登录态从环境变量 XHS_COOKIES（JSON 数组字符串）注入，无需本地浏览器
 // 失败时不崩溃：把错误信息写入输出 JSON，供 build_daily_cloud.py 生成 alerts
 // 云端用 puppeteer（自带 Chromium），本地测试用 puppeteer-core（配合 Edge）
@@ -8,7 +8,7 @@ const fs = require('fs');
 const path = require('path');
 
 const OUT = process.env.XHS_OUT || 'data/xhs_hot_raw.json';
-const KEYWORDS = ['ASMR吃播', '沉浸式吃播'];
+const KEYWORDS = ['大学生活', '考研'];
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
 function parseCookies(envStr) {
@@ -147,7 +147,7 @@ function writeError(msg) {
       return out;
     });
 
-    const filtered = items.filter(i => /ASMR|吃播|沉浸式|咀嚼|声控|吃东西|助眠|美食/.test(i.title));
+    const filtered = items.filter(i => /大学生|考研|宿舍|校园|期末|实习|社团|学习|食堂|图书馆|毕业|面试|课|高考|保研|绩点/.test(i.title));
     console.log(`  抓到 ${items.length} 条，过滤后 ${filtered.length} 条`);
     filtered.slice(0, 5).forEach(i => console.log('   -', i.title.slice(0, 40), '|', i.likes));
     result.sources['小红书搜索_' + kw + '_最热'] = filtered;
