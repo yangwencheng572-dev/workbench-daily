@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-云端版：真实平台热榜抓取（抖音 + B站）
+云端版：真实平台热榜抓取（抖音 + B站）—— 大学生/年轻人定位版
 与本地版逻辑一致，仅路径参数化，供 GitHub Actions 使用。
 输出路径通过 --out 指定，默认 data/platform_hot_raw.json（相对当前目录）。
+数据源：①抖音热点榜（tophub 实时）②B站全站热门榜（官方API）③B站「大学生活」「考研」近30天按播放搜索（官方API wbi签名）
 """
 import json, time, hashlib, re, datetime, random, argparse, os
 import urllib.request, urllib.parse
@@ -42,10 +43,9 @@ def fetch_tophub(node):
     return items
 
 def fetch_douyin():
+    """抖音：通用热点榜（年轻人向综合热点）"""
     hot = fetch_tophub("K7GdaMgdQy")
-    time.sleep(random.uniform(1.5, 3))
-    food = fetch_tophub("aEdZWyBerO")
-    return {"热点榜": hot, "美食榜": food}
+    return {"热点榜": hot}
 
 # ---------------- B站 ----------------
 MIXIN_TAB = [46,47,18,2,53,8,23,32,15,50,10,31,58,3,45,35,27,43,5,49,33,9,42,19,
@@ -67,9 +67,10 @@ def wbi_sign(params, key):
     params["w_rid"] = hashlib.md5((q + key).encode()).hexdigest()
     return urllib.parse.urlencode(params, quote_via=urllib.parse.quote)
 
-def fetch_bili_food_rank():
+def fetch_bili_rank():
+    """B站全站热门排行（rid=0 综合榜，面向全站年轻人）"""
     data = json.loads(http_get(
-        "https://api.bilibili.com/x/web-interface/ranking?rid=211&type=all",
+        "https://api.bilibili.com/x/web-interface/ranking?rid=0&type=all",
         referer="https://www.bilibili.com/v/popular/rank/all"))
     items = []
     if data.get("code") == 0:
@@ -120,25 +121,23 @@ def main():
     try:
         dy = fetch_douyin()
         result["sources"]["抖音热点榜"] = dy["热点榜"]
-        result["sources"]["抖音美食榜"] = dy["美食榜"]
     except Exception as e:
         result["sources"]["抖音热点榜"] = {"error": str(e)}
-        result["sources"]["抖音美食榜"] = {"error": str(e)}
 
     try:
-        result["sources"]["B站美食区排行榜"] = fetch_bili_food_rank()
+        result["sources"]["B站全站热门榜"] = fetch_bili_rank()
     except Exception as e:
-        result["sources"]["B站美食区排行榜"] = {"error": str(e)}
+        result["sources"]["B站全站热门榜"] = {"error": str(e)}
 
     try:
         key = wbi_key()
         time.sleep(1)
-        result["sources"]["B站搜索_ASMR吃播_近30天按播放"] = fetch_bili_search("ASMR 吃播", key)
+        result["sources"]["B站搜索_大学生活_近30天按播放"] = fetch_bili_search("大学生活", key)
         time.sleep(random.uniform(1.5, 3))
-        result["sources"]["B站搜索_沉浸式吃播_近30天按播放"] = fetch_bili_search("沉浸式吃播", key)
+        result["sources"]["B站搜索_考研_近30天按播放"] = fetch_bili_search("考研", key)
     except Exception as e:
-        result["sources"]["B站搜索_ASMR吃播_近30天按播放"] = {"error": str(e)}
-        result["sources"]["B站搜索_沉浸式吃播_近30天按播放"] = {"error": str(e)}
+        result["sources"]["B站搜索_大学生活_近30天按播放"] = {"error": str(e)}
+        result["sources"]["B站搜索_考研_近30天按播放"] = {"error": str(e)}
 
     stat = {}
     for k, v in result["sources"].items():
