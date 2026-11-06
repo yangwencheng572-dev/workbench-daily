@@ -1,1289 +1,967 @@
 {
-  "fetchedAt": "2026-11-05 04:09:16",
+  "fetchedAt": "2026-11-06 04:06:43",
   "sources": {
     "抖音热点榜": [
       {
-        "title": "GEN战胜LYON挺进半决赛",
-        "link": "https://www.douyin.com/search/GEN%E6%88%98%E8%83%9CLYON%E6%8C%BA%E8%BF%9B%E5%8D%8A%E5%86%B3%E8%B5%9B",
-        "heatText": "1180.3万"
+        "title": "BLG战胜DK晋级半决赛",
+        "link": "https://www.douyin.com/search/BLG%E6%88%98%E8%83%9CDK%E6%99%8B%E7%BA%A7%E5%8D%8A%E5%86%B3%E8%B5%9B",
+        "heatText": "1184.7万"
       },
       {
-        "title": "原来深秋是咕嘟的",
-        "link": "https://www.douyin.com/search/%E5%8E%9F%E6%9D%A5%E6%B7%B1%E7%A7%8B%E6%98%AF%E5%92%95%E5%98%9F%E7%9A%84",
-        "heatText": "1149.7万"
+        "title": "WTT法兰克福温瑞博3:0王楚钦",
+        "link": "https://www.douyin.com/search/WTT%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F%E6%B8%A9%E7%91%9E%E5%8D%9A3%3A0%E7%8E%8B%E6%A5%9A%E9%92%A6",
+        "heatText": "1156.6万"
       },
       {
-        "title": "读懂31省份三季报三大看点",
-        "link": "https://www.douyin.com/search/%E8%AF%BB%E6%87%8231%E7%9C%81%E4%BB%BD%E4%B8%89%E5%AD%A3%E6%8A%A5%E4%B8%89%E5%A4%A7%E7%9C%8B%E7%82%B9",
-        "heatText": "1139.0万"
+        "title": "进博会里的十五五脚步",
+        "link": "https://www.douyin.com/search/%E8%BF%9B%E5%8D%9A%E4%BC%9A%E9%87%8C%E7%9A%84%E5%8D%81%E4%BA%94%E4%BA%94%E8%84%9A%E6%AD%A5",
+        "heatText": "1141.5万"
       },
       {
-        "title": "马兴瑞被提起公诉",
-        "link": "https://www.douyin.com/search/%E9%A9%AC%E5%85%B4%E7%91%9E%E8%A2%AB%E6%8F%90%E8%B5%B7%E5%85%AC%E8%AF%89",
-        "heatText": "1120.6万"
+        "title": "降温了羽绒服先穿为敬",
+        "link": "https://www.douyin.com/search/%E9%99%8D%E6%B8%A9%E4%BA%86%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%85%88%E7%A9%BF%E4%B8%BA%E6%95%AC",
+        "heatText": "1131.3万"
       },
       {
-        "title": "一道热乎菜开启各地冬天",
-        "link": "https://www.douyin.com/search/%E4%B8%80%E9%81%93%E7%83%AD%E4%B9%8E%E8%8F%9C%E5%BC%80%E5%90%AF%E5%90%84%E5%9C%B0%E5%86%AC%E5%A4%A9",
-        "heatText": "1053.7万"
+        "title": "你怎么舍得让有趣的知识流走",
+        "link": "https://www.douyin.com/search/%E4%BD%A0%E6%80%8E%E4%B9%88%E8%88%8D%E5%BE%97%E8%AE%A9%E6%9C%89%E8%B6%A3%E7%9A%84%E7%9F%A5%E8%AF%86%E6%B5%81%E8%B5%B0",
+        "heatText": "1018.2万"
       },
       {
-        "title": "男生秋冬简约穿搭攻略",
-        "link": "https://www.douyin.com/search/%E7%94%B7%E7%94%9F%E7%A7%8B%E5%86%AC%E7%AE%80%E7%BA%A6%E7%A9%BF%E6%90%AD%E6%94%BB%E7%95%A5",
-        "heatText": "1034.8万"
+        "title": "路漫漫终有归处",
+        "link": "https://www.douyin.com/search/%E8%B7%AF%E6%BC%AB%E6%BC%AB%E7%BB%88%E6%9C%89%E5%BD%92%E5%A4%84",
+        "heatText": "1017.7万"
       },
       {
-        "title": "76人战胜活塞迎五连胜",
-        "link": "https://www.douyin.com/search/76%E4%BA%BA%E6%88%98%E8%83%9C%E6%B4%BB%E5%A1%9E%E8%BF%8E%E4%BA%94%E8%BF%9E%E8%83%9C",
-        "heatText": "917.2万"
+        "title": "东风61已列装火箭军常态参训",
+        "link": "https://www.douyin.com/search/%E4%B8%9C%E9%A3%8E61%E5%B7%B2%E5%88%97%E8%A3%85%E7%81%AB%E7%AE%AD%E5%86%9B%E5%B8%B8%E6%80%81%E5%8F%82%E8%AE%AD",
+        "heatText": "881.6万"
       },
       {
-        "title": "常冰玉胜赵心童晋级国锦赛四强",
-        "link": "https://www.douyin.com/search/%E5%B8%B8%E5%86%B0%E7%8E%89%E8%83%9C%E8%B5%B5%E5%BF%83%E7%AB%A5%E6%99%8B%E7%BA%A7%E5%9B%BD%E9%94%A6%E8%B5%9B%E5%9B%9B%E5%BC%BA",
-        "heatText": "911.7万"
+        "title": "日本考虑紧急情况下运进核武器",
+        "link": "https://www.douyin.com/search/%E6%97%A5%E6%9C%AC%E8%80%83%E8%99%91%E7%B4%A7%E6%80%A5%E6%83%85%E5%86%B5%E4%B8%8B%E8%BF%90%E8%BF%9B%E6%A0%B8%E6%AD%A6%E5%99%A8",
+        "heatText": "776.7万"
       },
       {
-        "title": "森林狼vs火箭",
-        "link": "https://www.douyin.com/search/%E6%A3%AE%E6%9E%97%E7%8B%BCvs%E7%81%AB%E7%AE%AD",
-        "heatText": "909.6万"
+        "title": "黄金后市怎么走",
+        "link": "https://www.douyin.com/search/%E9%BB%84%E9%87%91%E5%90%8E%E5%B8%82%E6%80%8E%E4%B9%88%E8%B5%B0",
+        "heatText": "775.9万"
       },
       {
-        "title": "福建舰电磁弹射实战价值解析",
-        "link": "https://www.douyin.com/search/%E7%A6%8F%E5%BB%BA%E8%88%B0%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%E5%AE%9E%E6%88%98%E4%BB%B7%E5%80%BC%E8%A7%A3%E6%9E%90",
-        "heatText": "908.1万"
+        "title": "范争一无缘国锦赛决赛",
+        "link": "https://www.douyin.com/search/%E8%8C%83%E4%BA%89%E4%B8%80%E6%97%A0%E7%BC%98%E5%9B%BD%E9%94%A6%E8%B5%9B%E5%86%B3%E8%B5%9B",
+        "heatText": "775.3万"
       },
       {
-        "title": "盘点影响2027经济走向的大事件",
-        "link": "https://www.douyin.com/search/%E7%9B%98%E7%82%B9%E5%BD%B1%E5%93%8D2027%E7%BB%8F%E6%B5%8E%E8%B5%B0%E5%90%91%E7%9A%84%E5%A4%A7%E4%BA%8B%E4%BB%B6",
-        "heatText": "896.2万"
+        "title": "贺炜发文致敬C罗国家队生涯",
+        "link": "https://www.douyin.com/search/%E8%B4%BA%E7%82%9C%E5%8F%91%E6%96%87%E8%87%B4%E6%95%ACC%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF",
+        "heatText": "774.7万"
       },
       {
-        "title": "朗斯1:9不敌科莫",
-        "link": "https://www.douyin.com/search/%E6%9C%97%E6%96%AF1%3A9%E4%B8%8D%E6%95%8C%E7%A7%91%E8%8E%AB",
-        "heatText": "888.5万"
+        "title": "C罗宣布从葡萄牙国家队退役",
+        "link": "https://www.douyin.com/search/C%E7%BD%97%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%91%A1%E8%90%84%E7%89%99%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9",
+        "heatText": "774.0万"
       },
       {
-        "title": "气象部门回应iPhone天气异常数据",
-        "link": "https://www.douyin.com/search/%E6%B0%94%E8%B1%A1%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94iPhone%E5%A4%A9%E6%B0%94%E5%BC%82%E5%B8%B8%E6%95%B0%E6%8D%AE",
-        "heatText": "886.4万"
-      },
-      {
-        "title": "曼城3:2客胜莱比锡红牛",
-        "link": "https://www.douyin.com/search/%E6%9B%BC%E5%9F%8E3%3A2%E5%AE%A2%E8%83%9C%E8%8E%B1%E6%AF%94%E9%94%A1%E7%BA%A2%E7%89%9B",
-        "heatText": "874.1万"
+        "title": "为什么你越安慰孩子越有压力",
+        "link": "https://www.douyin.com/search/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E8%B6%8A%E5%AE%89%E6%85%B0%E5%AD%A9%E5%AD%90%E8%B6%8A%E6%9C%89%E5%8E%8B%E5%8A%9B",
+        "heatText": "773.7万"
       },
       {
         "title": "一件单品穿两季穿搭技巧",
         "link": "https://www.douyin.com/search/%E4%B8%80%E4%BB%B6%E5%8D%95%E5%93%81%E7%A9%BF%E4%B8%A4%E5%AD%A3%E7%A9%BF%E6%90%AD%E6%8A%80%E5%B7%A7",
-        "heatText": "872.6万"
+        "heatText": "773.4万"
       },
       {
-        "title": "Chovy：今年的我确实有些不一样",
-        "link": "https://www.douyin.com/search/Chovy%EF%BC%9A%E4%BB%8A%E5%B9%B4%E7%9A%84%E6%88%91%E7%A1%AE%E5%AE%9E%E6%9C%89%E4%BA%9B%E4%B8%8D%E4%B8%80%E6%A0%B7",
-        "heatText": "814.5万"
+        "title": "BLG晋级四强后发文",
+        "link": "https://www.douyin.com/search/BLG%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA%E5%90%8E%E5%8F%91%E6%96%87",
+        "heatText": "773.3万"
+      },
+      {
+        "title": "深度复盘BLG战胜DK",
+        "link": "https://www.douyin.com/search/%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98BLG%E6%88%98%E8%83%9CDK",
+        "heatText": "772.8万"
+      },
+      {
+        "title": "现场见证BLG战胜DK",
+        "link": "https://www.douyin.com/search/%E7%8E%B0%E5%9C%BA%E8%A7%81%E8%AF%81BLG%E6%88%98%E8%83%9CDK",
+        "heatText": "772.0万"
+      },
+      {
+        "title": "冬将至 我与你",
+        "link": "https://www.douyin.com/search/%E5%86%AC%E5%B0%86%E8%87%B3+%E6%88%91%E4%B8%8E%E4%BD%A0",
+        "heatText": "771.7万"
+      },
+      {
+        "title": "姐感穿搭法则",
+        "link": "https://www.douyin.com/search/%E5%A7%90%E6%84%9F%E7%A9%BF%E6%90%AD%E6%B3%95%E5%88%99",
+        "heatText": "771.1万"
+      },
+      {
+        "title": "一起来跳呲牙舞",
+        "link": "https://www.douyin.com/search/%E4%B8%80%E8%B5%B7%E6%9D%A5%E8%B7%B3%E5%91%B2%E7%89%99%E8%88%9E",
+        "heatText": "770.3万"
+      },
+      {
+        "title": "后会友期第四期看点",
+        "link": "https://www.douyin.com/search/%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E7%AC%AC%E5%9B%9B%E6%9C%9F%E7%9C%8B%E7%82%B9",
+        "heatText": "768.7万"
+      },
+      {
+        "title": "今天是太阳雨开播",
+        "link": "https://www.douyin.com/search/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E5%BC%80%E6%92%AD",
+        "heatText": "768.7万"
+      },
+      {
+        "title": "我和豆包关系最好时belike",
+        "link": "https://www.douyin.com/search/%E6%88%91%E5%92%8C%E8%B1%86%E5%8C%85%E5%85%B3%E7%B3%BB%E6%9C%80%E5%A5%BD%E6%97%B6belike",
+        "heatText": "767.9万"
+      },
+      {
+        "title": "向C罗和我的青春说再见",
+        "link": "https://www.douyin.com/search/%E5%90%91C%E7%BD%97%E5%92%8C%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E8%AF%B4%E5%86%8D%E8%A7%81",
+        "heatText": "767.3万"
+      },
+      {
+        "title": "红果为什么在台湾这么火",
+        "link": "https://www.douyin.com/search/%E7%BA%A2%E6%9E%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E5%8F%B0%E6%B9%BE%E8%BF%99%E4%B9%88%E7%81%AB",
+        "heatText": "767.2万"
+      },
+      {
+        "title": "肱二头肌比心模仿挑战",
+        "link": "https://www.douyin.com/search/%E8%82%B1%E4%BA%8C%E5%A4%B4%E8%82%8C%E6%AF%94%E5%BF%83%E6%A8%A1%E4%BB%BF%E6%8C%91%E6%88%98",
+        "heatText": "766.5万"
+      },
+      {
+        "title": "考古许飞的采访太好品了",
+        "link": "https://www.douyin.com/search/%E8%80%83%E5%8F%A4%E8%AE%B8%E9%A3%9E%E7%9A%84%E9%87%87%E8%AE%BF%E5%A4%AA%E5%A5%BD%E5%93%81%E4%BA%86",
+        "heatText": "765.8万"
+      },
+      {
+        "title": "张颂文新剧穷小伙拿大结果",
+        "link": "https://www.douyin.com/search/%E5%BC%A0%E9%A2%82%E6%96%87%E6%96%B0%E5%89%A7%E7%A9%B7%E5%B0%8F%E4%BC%99%E6%8B%BF%E5%A4%A7%E7%BB%93%E6%9E%9C",
+        "heatText": "765.8万"
+      },
+      {
+        "title": "无畏契约主播橘子官宣抖音首秀",
+        "link": "https://www.douyin.com/search/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E4%B8%BB%E6%92%AD%E6%A9%98%E5%AD%90%E5%AE%98%E5%AE%A3%E6%8A%96%E9%9F%B3%E9%A6%96%E7%A7%80",
+        "heatText": "765.3万"
+      },
+      {
+        "title": "TheShy喊话把力量借给iG",
+        "link": "https://www.douyin.com/search/TheShy%E5%96%8A%E8%AF%9D%E6%8A%8A%E5%8A%9B%E9%87%8F%E5%80%9F%E7%BB%99iG",
+        "heatText": "765.2万"
+      },
+      {
+        "title": "黑猫顺拐舞一跳通透极了",
+        "link": "https://www.douyin.com/search/%E9%BB%91%E7%8C%AB%E9%A1%BA%E6%8B%90%E8%88%9E%E4%B8%80%E8%B7%B3%E9%80%9A%E9%80%8F%E6%9E%81%E4%BA%86",
+        "heatText": "765.1万"
+      },
+      {
+        "title": "在红果看持械入宋涨知识了",
+        "link": "https://www.douyin.com/search/%E5%9C%A8%E7%BA%A2%E6%9E%9C%E7%9C%8B%E6%8C%81%E6%A2%B0%E5%85%A5%E5%AE%8B%E6%B6%A8%E7%9F%A5%E8%AF%86%E4%BA%86",
+        "heatText": "765.0万"
+      },
+      {
+        "title": "后会友期厉娜深度解析",
+        "link": "https://www.douyin.com/search/%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E5%8E%89%E5%A8%9C%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90",
+        "heatText": "764.8万"
+      },
+      {
+        "title": "一半青涩一半纯真",
+        "link": "https://www.douyin.com/search/%E4%B8%80%E5%8D%8A%E9%9D%92%E6%B6%A9%E4%B8%80%E5%8D%8A%E7%BA%AF%E7%9C%9F",
+        "heatText": "764.6万"
+      },
+      {
+        "title": "吴磊一天骑行100公里",
+        "link": "https://www.douyin.com/search/%E5%90%B4%E7%A3%8A%E4%B8%80%E5%A4%A9%E9%AA%91%E8%A1%8C100%E5%85%AC%E9%87%8C",
+        "heatText": "764.5万"
+      },
+      {
+        "title": "全网为许飞厉娜画地为牢",
+        "link": "https://www.douyin.com/search/%E5%85%A8%E7%BD%91%E4%B8%BA%E8%AE%B8%E9%A3%9E%E5%8E%89%E5%A8%9C%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2",
+        "heatText": "764.5万"
+      },
+      {
+        "title": "三角洲新刀皮黑伤测评",
+        "link": "https://www.douyin.com/search/%E4%B8%89%E8%A7%92%E6%B4%B2%E6%96%B0%E5%88%80%E7%9A%AE%E9%BB%91%E4%BC%A4%E6%B5%8B%E8%AF%84",
+        "heatText": "764.4万"
+      },
+      {
+        "title": "首款华为鸿蒙台式机抢先体验",
+        "link": "https://www.douyin.com/search/%E9%A6%96%E6%AC%BE%E5%8D%8E%E4%B8%BA%E9%B8%BF%E8%92%99%E5%8F%B0%E5%BC%8F%E6%9C%BA%E6%8A%A2%E5%85%88%E4%BD%93%E9%AA%8C",
+        "heatText": "764.3万"
+      },
+      {
+        "title": "青稚pel毛茸茸地圈在一起",
+        "link": "https://www.douyin.com/search/%E9%9D%92%E7%A8%9Apel%E6%AF%9B%E8%8C%B8%E8%8C%B8%E5%9C%B0%E5%9C%88%E5%9C%A8%E4%B8%80%E8%B5%B7",
+        "heatText": "763.9万"
+      },
+      {
+        "title": "iG对阵GEN前瞻分析",
+        "link": "https://www.douyin.com/search/iG%E5%AF%B9%E9%98%B5GEN%E5%89%8D%E7%9E%BB%E5%88%86%E6%9E%90",
+        "heatText": "763.9万"
+      },
+      {
+        "title": "轻松拿捏穿搭障眼法",
+        "link": "https://www.douyin.com/search/%E8%BD%BB%E6%9D%BE%E6%8B%BF%E6%8D%8F%E7%A9%BF%E6%90%AD%E9%9A%9C%E7%9C%BC%E6%B3%95",
+        "heatText": "763.8万"
+      },
+      {
+        "title": "转眼又到了立冬",
+        "link": "https://www.douyin.com/search/%E8%BD%AC%E7%9C%BC%E5%8F%88%E5%88%B0%E4%BA%86%E7%AB%8B%E5%86%AC",
+        "heatText": "763.6万"
       },
       {
         "title": "沈阳保洁大叔老钱风穿搭好飒",
         "link": "https://www.douyin.com/search/%E6%B2%88%E9%98%B3%E4%BF%9D%E6%B4%81%E5%A4%A7%E5%8F%94%E8%80%81%E9%92%B1%E9%A3%8E%E7%A9%BF%E6%90%AD%E5%A5%BD%E9%A3%92",
-        "heatText": "778.6万"
-      },
-      {
-        "title": "谁懂影之刃零中华武术的含金量",
-        "link": "https://www.douyin.com/search/%E8%B0%81%E6%87%82%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E4%B8%AD%E5%8D%8E%E6%AD%A6%E6%9C%AF%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F",
-        "heatText": "776.3万"
-      },
-      {
-        "title": "毛茸茸的青稚有脾气",
-        "link": "https://www.douyin.com/search/%E6%AF%9B%E8%8C%B8%E8%8C%B8%E7%9A%84%E9%9D%92%E7%A8%9A%E6%9C%89%E8%84%BE%E6%B0%94",
-        "heatText": "776.1万"
-      },
-      {
-        "title": "媒体评IG战胜TES",
-        "link": "https://www.douyin.com/search/%E5%AA%92%E4%BD%93%E8%AF%84IG%E6%88%98%E8%83%9CTES",
-        "heatText": "776.0万"
-      },
-      {
-        "title": "许飞一开口就是晋江文学",
-        "link": "https://www.douyin.com/search/%E8%AE%B8%E9%A3%9E%E4%B8%80%E5%BC%80%E5%8F%A3%E5%B0%B1%E6%98%AF%E6%99%8B%E6%B1%9F%E6%96%87%E5%AD%A6",
-        "heatText": "774.8万"
-      },
-      {
-        "title": "嫁金钗红线拿下大结果",
-        "link": "https://www.douyin.com/search/%E5%AB%81%E9%87%91%E9%92%97%E7%BA%A2%E7%BA%BF%E6%8B%BF%E4%B8%8B%E5%A4%A7%E7%BB%93%E6%9E%9C",
-        "heatText": "773.4万"
-      },
-      {
-        "title": "第一视角沉浸式体验天门山跑酷",
-        "link": "https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E5%A4%A9%E9%97%A8%E5%B1%B1%E8%B7%91%E9%85%B7",
-        "heatText": "773.2万"
-      },
-      {
-        "title": "我的第五人格磷光症手记",
-        "link": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E7%A3%B7%E5%85%89%E7%97%87%E6%89%8B%E8%AE%B0",
-        "heatText": "773.0万"
-      },
-      {
-        "title": "厉娜剪了个新短发",
-        "link": "https://www.douyin.com/search/%E5%8E%89%E5%A8%9C%E5%89%AA%E4%BA%86%E4%B8%AA%E6%96%B0%E7%9F%AD%E5%8F%91",
-        "heatText": "772.7万"
-      },
-      {
-        "title": "369发抖音感谢粉丝支持",
-        "link": "https://www.douyin.com/search/369%E5%8F%91%E6%8A%96%E9%9F%B3%E6%84%9F%E8%B0%A2%E7%B2%89%E4%B8%9D%E6%94%AF%E6%8C%81",
-        "heatText": "772.1万"
-      },
-      {
-        "title": "第五人格新赛季磷光症机制爆料",
-        "link": "https://www.douyin.com/search/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E6%96%B0%E8%B5%9B%E5%AD%A3%E7%A3%B7%E5%85%89%E7%97%87%E6%9C%BA%E5%88%B6%E7%88%86%E6%96%99",
-        "heatText": "771.9万"
-      },
-      {
-        "title": "三角洲新赛季的n种打法",
-        "link": "https://www.douyin.com/search/%E4%B8%89%E8%A7%92%E6%B4%B2%E6%96%B0%E8%B5%9B%E5%AD%A3%E7%9A%84n%E7%A7%8D%E6%89%93%E6%B3%95",
-        "heatText": "771.9万"
-      },
-      {
-        "title": "各行各业在红果都有专属短剧",
-        "link": "https://www.douyin.com/search/%E5%90%84%E8%A1%8C%E5%90%84%E4%B8%9A%E5%9C%A8%E7%BA%A2%E6%9E%9C%E9%83%BD%E6%9C%89%E4%B8%93%E5%B1%9E%E7%9F%AD%E5%89%A7",
-        "heatText": "771.4万"
-      },
-      {
-        "title": "深度复盘IG战胜TES",
-        "link": "https://www.douyin.com/search/%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98IG%E6%88%98%E8%83%9CTES",
-        "heatText": "771.1万"
-      },
-      {
-        "title": "原神7.2新地图快速上手攻略",
-        "link": "https://www.douyin.com/search/%E5%8E%9F%E7%A5%9E7.2%E6%96%B0%E5%9C%B0%E5%9B%BE%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%E6%94%BB%E7%95%A5",
-        "heatText": "770.8万"
-      },
-      {
-        "title": "后会友期导演回应节目剪辑混乱",
-        "link": "https://www.douyin.com/search/%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E8%8A%82%E7%9B%AE%E5%89%AA%E8%BE%91%E6%B7%B7%E4%B9%B1",
-        "heatText": "770.8万"
-      },
-      {
-        "title": "妈妈的话是家里的圣旨",
-        "link": "https://www.douyin.com/search/%E5%A6%88%E5%A6%88%E7%9A%84%E8%AF%9D%E6%98%AF%E5%AE%B6%E9%87%8C%E7%9A%84%E5%9C%A3%E6%97%A8",
-        "heatText": "770.5万"
-      },
-      {
-        "title": "深度解析后会友期背后看点",
-        "link": "https://www.douyin.com/search/%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E8%83%8C%E5%90%8E%E7%9C%8B%E7%82%B9",
-        "heatText": "769.6万"
-      },
-      {
-        "title": "这一支舞我只为你一个人跳",
-        "link": "https://www.douyin.com/search/%E8%BF%99%E4%B8%80%E6%94%AF%E8%88%9E%E6%88%91%E5%8F%AA%E4%B8%BA%E4%BD%A0%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%B7%B3",
-        "heatText": "769.2万"
-      },
-      {
-        "title": "TXT新专试听大事很妙",
-        "link": "https://www.douyin.com/search/TXT%E6%96%B0%E4%B8%93%E8%AF%95%E5%90%AC%E5%A4%A7%E4%BA%8B%E5%BE%88%E5%A6%99",
-        "heatText": "768.9万"
-      },
-      {
-        "title": "苹果国行AI与努比亚智能体对比",
-        "link": "https://www.douyin.com/search/%E8%8B%B9%E6%9E%9C%E5%9B%BD%E8%A1%8CAI%E4%B8%8E%E5%8A%AA%E6%AF%94%E4%BA%9A%E6%99%BA%E8%83%BD%E4%BD%93%E5%AF%B9%E6%AF%94",
-        "heatText": "768.1万"
-      },
-      {
-        "title": "TheShy感谢粉丝支持",
-        "link": "https://www.douyin.com/search/TheShy%E6%84%9F%E8%B0%A2%E7%B2%89%E4%B8%9D%E6%94%AF%E6%8C%81",
-        "heatText": "768.0万"
-      },
-      {
-        "title": "小蓝叔对口型演绎大赏",
-        "link": "https://www.douyin.com/search/%E5%B0%8F%E8%93%9D%E5%8F%94%E5%AF%B9%E5%8F%A3%E5%9E%8B%E6%BC%94%E7%BB%8E%E5%A4%A7%E8%B5%8F",
-        "heatText": "767.9万"
+        "heatText": "763.3万"
       },
       {
         "title": "买首饰是为了取悦自己",
         "link": "https://www.douyin.com/search/%E4%B9%B0%E9%A6%96%E9%A5%B0%E6%98%AF%E4%B8%BA%E4%BA%86%E5%8F%96%E6%82%A6%E8%87%AA%E5%B7%B1",
-        "heatText": "767.7万"
+        "heatText": "763.2万"
       },
       {
-        "title": "秋日街头感穿搭参考",
-        "link": "https://www.douyin.com/search/%E7%A7%8B%E6%97%A5%E8%A1%97%E5%A4%B4%E6%84%9F%E7%A9%BF%E6%90%AD%E5%8F%82%E8%80%83",
-        "heatText": "767.2万"
+        "title": "冬天剥个橙子手上都是阳光味",
+        "link": "https://www.douyin.com/search/%E5%86%AC%E5%A4%A9%E5%89%A5%E4%B8%AA%E6%A9%99%E5%AD%90%E6%89%8B%E4%B8%8A%E9%83%BD%E6%98%AF%E9%98%B3%E5%85%89%E5%91%B3",
+        "heatText": "763.2万"
       },
       {
-        "title": "英国男子花费28年完成环球徒步",
-        "link": "https://www.douyin.com/search/%E8%8B%B1%E5%9B%BD%E7%94%B7%E5%AD%90%E8%8A%B1%E8%B4%B928%E5%B9%B4%E5%AE%8C%E6%88%90%E7%8E%AF%E7%90%83%E5%BE%92%E6%AD%A5",
-        "heatText": "766.9万"
+        "title": "心理健康调色盘",
+        "link": "https://www.douyin.com/search/%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E8%B0%83%E8%89%B2%E7%9B%98",
+        "heatText": "763.2万"
       },
       {
-        "title": "11月你躲不掉的喜事",
-        "link": "https://www.douyin.com/search/11%E6%9C%88%E4%BD%A0%E8%BA%B2%E4%B8%8D%E6%8E%89%E7%9A%84%E5%96%9C%E4%BA%8B",
-        "heatText": "766.6万"
+        "title": "更适合年轻人的文玩配饰",
+        "link": "https://www.douyin.com/search/%E6%9B%B4%E9%80%82%E5%90%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E6%96%87%E7%8E%A9%E9%85%8D%E9%A5%B0",
+        "heatText": "762.8万"
       },
       {
-        "title": "想到7个虞寻歌同框的是天才吧",
-        "link": "https://www.douyin.com/search/%E6%83%B3%E5%88%B07%E4%B8%AA%E8%99%9E%E5%AF%BB%E6%AD%8C%E5%90%8C%E6%A1%86%E7%9A%84%E6%98%AF%E5%A4%A9%E6%89%8D%E5%90%A7",
-        "heatText": "766.4万"
+        "title": "当秋冬穿搭不再all black",
+        "link": "https://www.douyin.com/search/%E5%BD%93%E7%A7%8B%E5%86%AC%E7%A9%BF%E6%90%AD%E4%B8%8D%E5%86%8Dall+black",
+        "heatText": "762.8万"
       },
       {
-        "title": "跟着周传雄在南昌吃顿不辣的",
-        "link": "https://www.douyin.com/search/%E8%B7%9F%E7%9D%80%E5%91%A8%E4%BC%A0%E9%9B%84%E5%9C%A8%E5%8D%97%E6%98%8C%E5%90%83%E9%A1%BF%E4%B8%8D%E8%BE%A3%E7%9A%84",
-        "heatText": "766.2万"
-      },
-      {
-        "title": "60块逛吃川菜博物馆",
-        "link": "https://www.douyin.com/search/60%E5%9D%97%E9%80%9B%E5%90%83%E5%B7%9D%E8%8F%9C%E5%8D%9A%E7%89%A9%E9%A6%86",
-        "heatText": "766.1万"
-      },
-      {
-        "title": "就这么毛茸茸地上头了",
-        "link": "https://www.douyin.com/search/%E5%B0%B1%E8%BF%99%E4%B9%88%E6%AF%9B%E8%8C%B8%E8%8C%B8%E5%9C%B0%E4%B8%8A%E5%A4%B4%E4%BA%86",
-        "heatText": "765.5万"
-      },
-      {
-        "title": "没想到广西烧烤这么好吃",
-        "link": "https://www.douyin.com/search/%E6%B2%A1%E6%83%B3%E5%88%B0%E5%B9%BF%E8%A5%BF%E7%83%A7%E7%83%A4%E8%BF%99%E4%B9%88%E5%A5%BD%E5%90%83",
-        "heatText": "765.3万"
+        "title": "今年立冬吃超长长长饺子",
+        "link": "https://www.douyin.com/search/%E4%BB%8A%E5%B9%B4%E7%AB%8B%E5%86%AC%E5%90%83%E8%B6%85%E9%95%BF%E9%95%BF%E9%95%BF%E9%A5%BA%E5%AD%90",
+        "heatText": "762.6万"
       },
       {
         "title": "大摆羽绒服不用当肥粽子",
         "link": "https://www.douyin.com/search/%E5%A4%A7%E6%91%86%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%B8%8D%E7%94%A8%E5%BD%93%E8%82%A5%E7%B2%BD%E5%AD%90",
-        "heatText": "765.3万"
-      },
-      {
-        "title": "林一也来跳遗失的心跳了",
-        "link": "https://www.douyin.com/search/%E6%9E%97%E4%B8%80%E4%B9%9F%E6%9D%A5%E8%B7%B3%E9%81%97%E5%A4%B1%E7%9A%84%E5%BF%83%E8%B7%B3%E4%BA%86",
-        "heatText": "765.1万"
+        "heatText": "762.5万"
       }
     ],
     "B站全站热门榜": [
       {
         "title": "大家好，这里是 DeepSeek Harness，正式入驻 B 站！",
         "author": "DeepSeekHarness",
-        "play": 3275487,
+        "play": 2632065,
         "link": "https://www.bilibili.com/video/BV1i24P6rEmt",
         "pubdate": ""
       },
       {
         "title": "《崩坏：星穹铁道》即兴巡演PV——「当阿哈来敲门」",
         "author": "崩坏星穹铁道",
-        "play": 2794129,
+        "play": 3375752,
         "link": "https://www.bilibili.com/video/BV1XJ4g6WEyL",
-        "pubdate": ""
-      },
-      {
-        "title": "《原神》角色预告-「米提亚：井井有条」",
-        "author": "原神",
-        "play": 1689538,
-        "link": "https://www.bilibili.com/video/BV19b4A6PECX",
         "pubdate": ""
       },
       {
         "title": "网络热传生物鉴定 第65期",
         "author": "无穷小亮的科普日常",
-        "play": 3141494,
+        "play": 3655240,
         "link": "https://www.bilibili.com/video/BV18wxY63Erp",
         "pubdate": ""
       },
       {
         "title": "【只对你有感觉】|“【恋爱の小曲】”",
         "author": "蛋某人音乐",
-        "play": 4541485,
+        "play": 7348097,
         "link": "https://www.bilibili.com/video/BV1w5xh6sEEz",
         "pubdate": ""
       },
       {
-        "title": "【全网最全】DeepSeek Harness超详细教程！50分钟吃透DSH，让SuperAgent给你干活！",
-        "author": "Git源宝",
-        "play": 1494250,
-        "link": "https://www.bilibili.com/video/BV1REx46NEc4",
+        "title": "《原神》角色预告-「米提亚：井井有条」",
+        "author": "原神",
+        "play": 1784924,
+        "link": "https://www.bilibili.com/video/BV19b4A6PECX",
         "pubdate": ""
       },
       {
-        "title": "一条没下巴的鱼杀穿奥陶纪？",
-        "author": "我们都是社畜",
-        "play": 3162500,
-        "link": "https://www.bilibili.com/video/BV1Xx4c6tEKM",
-        "pubdate": ""
-      },
-      {
-        "title": "痛失爱女十周年！",
-        "author": "江歌妈妈",
-        "play": 568793,
-        "link": "https://www.bilibili.com/video/BV1K64A6oEeA",
-        "pubdate": ""
-      },
-      {
-        "title": "你从未离去 x 平凡之路",
-        "author": "神秘天洛元",
-        "play": 682301,
-        "link": "https://www.bilibili.com/video/BV1mVxx6SEJ4",
-        "pubdate": ""
-      },
-      {
-        "title": "【2026全球总决赛】11月4日 TES vs IG",
-        "author": "哔哩哔哩英雄联盟赛事",
-        "play": 7613418,
-        "link": "https://www.bilibili.com/video/BV1XwxU6xEnL",
-        "pubdate": ""
-      },
-      {
-        "title": "开破车挑战纽北！证明中国人比德国人更会玩车",
-        "author": "极速拍档",
-        "play": 1020054,
-        "link": "https://www.bilibili.com/video/BV1HH4u6PEsa",
-        "pubdate": ""
-      },
-      {
-        "title": "猫咪目前正在恢复，后续还会跟进的~",
-        "author": "宠医张政",
-        "play": 3176038,
-        "link": "https://www.bilibili.com/video/BV1A14c61ERU",
+        "title": "《崩坏：因缘精灵》幸福PV：缘汽一下",
+        "author": "崩坏因缘精灵",
+        "play": 4292059,
+        "link": "https://www.bilibili.com/video/BV1nm4g6NE71",
         "pubdate": ""
       },
       {
         "title": "《这是我儿子？》",
         "author": "张小伙玩配音",
-        "play": 2881336,
+        "play": 4654931,
         "link": "https://www.bilibili.com/video/BV1PF4g6ME26",
         "pubdate": ""
       },
       {
-        "title": "十五年前，我做了 《去月球》",
-        "author": "高瞰Freebird",
-        "play": 646210,
-        "link": "https://www.bilibili.com/video/BV1Lo4M6nEAw",
+        "title": "痛失爱女十周年！",
+        "author": "江歌妈妈",
+        "play": 636263,
+        "link": "https://www.bilibili.com/video/BV1K64A6oEeA",
         "pubdate": ""
       },
       {
-        "title": "【文明与地图】12个大模型扮演君主谁能带领人类走向星际文明？",
-        "author": "再改需求是修勾",
-        "play": 632140,
-        "link": "https://www.bilibili.com/video/BV1onxb6rEeE",
+        "title": "开破车挑战纽北！证明中国人比德国人更会玩车",
+        "author": "极速拍档",
+        "play": 1294770,
+        "link": "https://www.bilibili.com/video/BV1HH4u6PEsa",
         "pubdate": ""
       },
       {
-        "title": "宠粉天花板，请我的粉丝朋友清空一家零食店，你来选我买单，看看要花多少钱",
-        "author": "superB太",
-        "play": 3738056,
-        "link": "https://www.bilibili.com/video/BV14o4F6EELU",
+        "title": "只有站对角度，才能看见消失的孩子！",
+        "author": "艺术有毒",
+        "play": 4231204,
+        "link": "https://www.bilibili.com/video/BV1B54G6vEfm",
         "pubdate": ""
       },
       {
         "title": "乖乖待在我身边学微积分不好吗？",
         "author": "社恐内向昭爷爷",
-        "play": 868074,
+        "play": 1256635,
         "link": "https://www.bilibili.com/video/BV1vW4G6bEuf",
         "pubdate": ""
       },
       {
-        "title": "小黑你爸回你消息了",
-        "author": "冬冰",
-        "play": 2096217,
-        "link": "https://www.bilibili.com/video/BV1Lrxt6uEuR",
+        "title": "【2026全球总决赛】11月4日 TES vs IG",
+        "author": "哔哩哔哩英雄联盟赛事",
+        "play": 8541848,
+        "link": "https://www.bilibili.com/video/BV1XwxU6xEnL",
         "pubdate": ""
       },
       {
-        "title": "全球笑点下降2000倍而我不变【第二集】",
-        "author": "逗比的雀巢",
-        "play": 2345784,
-        "link": "https://www.bilibili.com/video/BV1TxxC6vEo4",
+        "title": "一条没下巴的鱼杀穿奥陶纪？",
+        "author": "我们都是社畜",
+        "play": 3379896,
+        "link": "https://www.bilibili.com/video/BV1Xx4c6tEKM",
         "pubdate": ""
       },
       {
-        "title": "周 术 回 战  |魔法Zc目录",
-        "author": "魔法Zc目录",
-        "play": 826372,
-        "link": "https://www.bilibili.com/video/BV13n4g6QEqx",
+        "title": "十五年前，我做了 《去月球》",
+        "author": "高瞰Freebird",
+        "play": 776036,
+        "link": "https://www.bilibili.com/video/BV1Lo4M6nEAw",
+        "pubdate": ""
+      },
+      {
+        "title": "《崩坏：星穹铁道》阿哈的抓马小曲",
+        "author": "帕姆的收藏夹",
+        "play": 937633,
+        "link": "https://www.bilibili.com/video/BV1LHxQ6gELU",
+        "pubdate": ""
+      },
+      {
+        "title": "《今日得吃朱古力》",
+        "author": "伤心欲茄222",
+        "play": 2985266,
+        "link": "https://www.bilibili.com/video/BV1jcxX6CEyK",
+        "pubdate": ""
+      },
+      {
+        "title": "【返场】乐高车过障碍物",
+        "author": "BEC乐高实验",
+        "play": 2838631,
+        "link": "https://www.bilibili.com/video/BV1Zg4g68Ef7",
+        "pubdate": ""
+      },
+      {
+        "title": "《三角洲行动》全新【微光】赛季故事短片",
+        "author": "三角洲行动",
+        "play": 1921243,
+        "link": "https://www.bilibili.com/video/BV1sKxQ6nEiL",
+        "pubdate": ""
+      },
+      {
+        "title": "总有世界，与你同频｜《弧光猎人》同频测试PV&国服全新PVP事件预告",
+        "author": "弧光猎人_ARCRaiders",
+        "play": 6076537,
+        "link": "https://www.bilibili.com/video/BV1RA4w6AE74",
+        "pubdate": ""
+      },
+      {
+        "title": "瞎说的什么玩意？",
+        "author": "小潮院长",
+        "play": 866358,
+        "link": "https://www.bilibili.com/video/BV1ZVxf6ZENs",
         "pubdate": ""
       },
       {
         "title": "哟西！故乡的樱花开了！",
         "author": "大漠叔叔",
-        "play": 3145523,
+        "play": 2317467,
         "link": "https://www.bilibili.com/video/BV1w34A62Eq2",
         "pubdate": ""
       },
       {
-        "title": "恨火，流向原野",
-        "author": "裸奔烫猫子",
-        "play": 807336,
-        "link": "https://www.bilibili.com/video/BV1KXxW6jEsF",
+        "title": "特朗普危！中期选举两院全丢，弹劾、调查、政府关门哪项等着他？",
+        "author": "小王Albert",
+        "play": 2885745,
+        "link": "https://www.bilibili.com/video/BV1ybxX6WEJK",
         "pubdate": ""
       },
       {
-        "title": "什么画居然能上央视视频？",
-        "author": "void新神殿下",
-        "play": 1184952,
-        "link": "https://www.bilibili.com/video/BV1tnx86hE6i",
+        "title": "参众两院全丢，民主党大翻盘，特朗普的中期大选自刎归天了",
+        "author": "星辰趣味屋",
+        "play": 854748,
+        "link": "https://www.bilibili.com/video/BV1hXxD6FE1Q",
         "pubdate": ""
       },
       {
-        "title": "【纸绘动画/卡点】爆肝600张！！数形结合！让你爱上数学【手搓动画大赛】",
-        "author": "Sktr小艺同学",
-        "play": 1457850,
-        "link": "https://www.bilibili.com/video/BV1yhxp66Ez8",
+        "title": "周 术 回 战  |魔法Zc目录",
+        "author": "魔法Zc目录",
+        "play": 893420,
+        "link": "https://www.bilibili.com/video/BV13n4g6QEqx",
         "pubdate": ""
       },
       {
-        "title": "山药肉沫蒸蛋！好吃(•؎ •)",
-        "author": "丽丽教做菜-",
-        "play": 1452799,
-        "link": "https://www.bilibili.com/video/BV1F54A6yE9v",
+        "title": "不看电视不接电话的中国人",
+        "author": "汤山老王",
+        "play": 1088460,
+        "link": "https://www.bilibili.com/video/BV15sxS68EFq",
+        "pubdate": ""
+      },
+      {
+        "title": "经常被问我的场景都是怎么弄的？今天直接带大家参观！",
+        "author": "李如儒也是李蠕蠕",
+        "play": 1767354,
+        "link": "https://www.bilibili.com/video/BV12R4u66Edd",
+        "pubdate": ""
+      },
+      {
+        "title": "倍速社会：是谁杀死了你的耐心？",
+        "author": "大圆镜科普",
+        "play": 667909,
+        "link": "https://www.bilibili.com/video/BV1ap4g6HEVk",
+        "pubdate": ""
+      },
+      {
+        "title": "物理意义上烫烫的一集",
+        "author": "吴磊LEO",
+        "play": 1343416,
+        "link": "https://www.bilibili.com/video/BV1mpxR6KESh",
         "pubdate": ""
       },
       {
         "title": "抽象新闻：10月人类迷惑行为大赏（下）",
         "author": "我是M菌",
-        "play": 3450031,
+        "play": 5319782,
         "link": "https://www.bilibili.com/video/BV14g4u6rEeH",
+        "pubdate": ""
+      },
+      {
+        "title": "苹果",
+        "author": "安吉-AnJ",
+        "play": 1041808,
+        "link": "https://www.bilibili.com/video/BV1FD4g6PEQu",
+        "pubdate": ""
+      },
+      {
+        "title": "【原神一条龙全收集】至冬7.2(成就数232/冰神瞳90/摩拉69/影生翼滴15)新基捷城+如翼之峰/宝箱/摩拉堆/玉帛/冰之印/原神7.2一条龙",
+        "author": "你的影月月",
+        "play": 1630562,
+        "link": "https://www.bilibili.com/video/BV1PyxQ6sEbH",
+        "pubdate": ""
+      },
+      {
+        "title": "【全网最全】DeepSeek Harness超详细教程！50分钟吃透DSH，让SuperAgent给你干活！",
+        "author": "Git源宝",
+        "play": 1084807,
+        "link": "https://www.bilibili.com/video/BV1REx46NEc4",
+        "pubdate": ""
+      },
+      {
+        "title": "Roblox 单色",
+        "author": "鲤鱼Ace",
+        "play": 484098,
+        "link": "https://www.bilibili.com/video/BV1zk4b6nE21",
+        "pubdate": ""
+      },
+      {
+        "title": "BLG vs HLE单曲《狼的诱惑》",
+        "author": "蔚蓝边际",
+        "play": 1266821,
+        "link": "https://www.bilibili.com/video/BV17m4M64Emr",
+        "pubdate": ""
+      },
+      {
+        "title": "猫咪目前正在恢复，后续还会跟进的~",
+        "author": "宠医张政",
+        "play": 2819564,
+        "link": "https://www.bilibili.com/video/BV1A14c61ERU",
+        "pubdate": ""
+      },
+      {
+        "title": "山药肉沫蒸蛋！好吃(•؎ •)",
+        "author": "丽丽教做菜-",
+        "play": 1620861,
+        "link": "https://www.bilibili.com/video/BV1F54A6yE9v",
+        "pubdate": ""
+      },
+      {
+        "title": "【明日方舟】我把全部剧情做成了 3000 多册五语电子书｜可对照阅读｜可搜台词",
+        "author": "bili_45520585709",
+        "play": 301245,
+        "link": "https://www.bilibili.com/video/BV1rR4A6jEEh",
+        "pubdate": ""
+      },
+      {
+        "title": "中期选举两院全丢，万税爷连胜被终结",
+        "author": "麻薯波比呀",
+        "play": 1563975,
+        "link": "https://www.bilibili.com/video/BV1sAxQ6pEEv",
+        "pubdate": ""
+      },
+      {
+        "title": "乌萨奇修仙传·极",
+        "author": "是一只哈奇喵",
+        "play": 1757030,
+        "link": "https://www.bilibili.com/video/BV1wh4P6XEkC",
+        "pubdate": ""
+      },
+      {
+        "title": "复仇者！集结！",
+        "author": "杨洋羊抽象王子",
+        "play": 2224608,
+        "link": "https://www.bilibili.com/video/BV1vR4M6QEwv",
+        "pubdate": ""
+      },
+      {
+        "title": "【文明与地图】12个大模型扮演君主谁能带领人类走向星际文明？",
+        "author": "再改需求是修勾",
+        "play": 591062,
+        "link": "https://www.bilibili.com/video/BV1onxb6rEeE",
+        "pubdate": ""
+      },
+      {
+        "title": "《异环》曳尔沐角色PV丨我们重归于好",
+        "author": "异环",
+        "play": 2016744,
+        "link": "https://www.bilibili.com/video/BV1NWxT6cEWk",
+        "pubdate": ""
+      },
+      {
+        "title": "【崩铁】星神★阿哈综合测评：献予欢愉之诗！欢愉全体升格！武器对比+技能解读+遗器选择+星魂提升！",
+        "author": "卡特亚",
+        "play": 1083413,
+        "link": "https://www.bilibili.com/video/BV1QMxD6FEGi",
+        "pubdate": ""
+      },
+      {
+        "title": "【时代少年团】系列纪录片《光辉岁月》——“小永远”",
+        "author": "时代少年团",
+        "play": 1048873,
+        "link": "https://www.bilibili.com/video/BV1ov4u6WEH4",
+        "pubdate": ""
+      },
+      {
+        "title": "入职鹰角成为卫戍协议策划的一天",
+        "author": "摸鱼事务所",
+        "play": 1461416,
+        "link": "https://www.bilibili.com/video/BV19P4w6aEk3",
+        "pubdate": ""
+      },
+      {
+        "title": "《锻刀大赛》神仙打架！全大马锻造泰国战刀 评委舍不得淘汰",
+        "author": "沫子瞪片",
+        "play": 1680511,
+        "link": "https://www.bilibili.com/video/BV1uD4u65Eae",
+        "pubdate": ""
+      },
+      {
+        "title": "阿黄有房了【AI全民制作人】",
+        "author": "阿黄和这个村",
+        "play": 3015142,
+        "link": "https://www.bilibili.com/video/BV17d4g6fEAi",
+        "pubdate": ""
+      },
+      {
+        "title": "当你只能使用吃过的干员打方舟……",
+        "author": "朝阳逆光",
+        "play": 845675,
+        "link": "https://www.bilibili.com/video/BV1rT4g6aEGg",
+        "pubdate": ""
+      },
+      {
+        "title": "什么画居然能上央视视频？",
+        "author": "void新神殿下",
+        "play": 1167046,
+        "link": "https://www.bilibili.com/video/BV1tnx86hE6i",
         "pubdate": ""
       },
       {
         "title": "无限流+大逃杀+规则怪谈！网飞又一部重磅神剧《末路兼职》60分钟完整解说",
         "author": "小侠夜班车",
-        "play": 1196267,
+        "play": 1044780,
         "link": "https://www.bilibili.com/video/BV1XYxh63E8y",
         "pubdate": ""
       },
       {
         "title": "《猫和老鼠》中的配乐细节竟然有这么多？！",
         "author": "大福咕咕",
-        "play": 1205083,
+        "play": 1125717,
         "link": "https://www.bilibili.com/video/BV17i4w66E7V",
-        "pubdate": ""
-      },
-      {
-        "title": "倍速社会：是谁杀死了你的耐心？",
-        "author": "大圆镜科普",
-        "play": 579389,
-        "link": "https://www.bilibili.com/video/BV1ap4g6HEVk",
-        "pubdate": ""
-      },
-      {
-        "title": "谁是有史以来最能整活的超级天才！",
-        "author": "海棠家的大肥鱼",
-        "play": 1232521,
-        "link": "https://www.bilibili.com/video/BV19sx46cEKB",
-        "pubdate": ""
-      },
-      {
-        "title": "经常被问我的场景都是怎么弄的？今天直接带大家参观！",
-        "author": "李如儒也是李蠕蠕",
-        "play": 1460110,
-        "link": "https://www.bilibili.com/video/BV12R4u66Edd",
-        "pubdate": ""
-      },
-      {
-        "title": "《这个我也没教啊》",
-        "author": "伤心欲茄222",
-        "play": 1340483,
-        "link": "https://www.bilibili.com/video/BV1V2x86CEmZ",
-        "pubdate": ""
-      },
-      {
-        "title": "BLG vs HLE小曲《狼的诱惑》",
-        "author": "蔚蓝边际",
-        "play": 1123484,
-        "link": "https://www.bilibili.com/video/BV17m4M64Emr",
-        "pubdate": ""
-      },
-      {
-        "title": "【大肥鱼】《secret base ～君がくれたもの～》未闻花名 ED 翻唱❀🐋",
-        "author": "你的鱼胆真是肥嘟嘟的",
-        "play": 434204,
-        "link": "https://www.bilibili.com/video/BV1K9xv65EQC",
-        "pubdate": ""
-      },
-      {
-        "title": "以此朋克，倚老卖老。",
-        "author": "桂香GuiXiang",
-        "play": 2863972,
-        "link": "https://www.bilibili.com/video/BV1uQxx69E7x",
-        "pubdate": ""
-      },
-      {
-        "title": "总有世界，与你同频｜《弧光猎人》同频测试PV&国服全新PVP事件预告",
-        "author": "弧光猎人_ARCRaiders",
-        "play": 4490119,
-        "link": "https://www.bilibili.com/video/BV1RA4w6AE74",
-        "pubdate": ""
-      },
-      {
-        "title": "一口气2个小时看完奇幻韩剧《末路兼职》八种怪谈，夺命兼职！日薪一亿的危险工作你干吗？爆肝三万字！",
-        "author": "不善言辞的秃秃",
-        "play": 890230,
-        "link": "https://www.bilibili.com/video/BV1Zo4c6TEg4",
-        "pubdate": ""
-      },
-      {
-        "title": "入职鹰角成为卫戍协议策划的一天",
-        "author": "摸鱼事务所",
-        "play": 1318985,
-        "link": "https://www.bilibili.com/video/BV19P4w6aEk3",
-        "pubdate": ""
-      },
-      {
-        "title": "这！绝对不是儿童餐！",
-        "author": "保安迷弟",
-        "play": 3351867,
-        "link": "https://www.bilibili.com/video/BV1hBxJ6uEcy",
-        "pubdate": ""
-      },
-      {
-        "title": "LPL赛区内战 IG战胜TES晋级四强【2026英雄联盟全球总决赛】",
-        "author": "新华社",
-        "play": 869440,
-        "link": "https://www.bilibili.com/video/BV1fDxS6rEeK",
-        "pubdate": ""
-      },
-      {
-        "title": "苹果",
-        "author": "安吉-AnJ",
-        "play": 791645,
-        "link": "https://www.bilibili.com/video/BV1FD4g6PEQu",
-        "pubdate": ""
-      },
-      {
-        "title": "打雪仗。",
-        "author": "小新博主",
-        "play": 1236429,
-        "link": "https://www.bilibili.com/video/BV16Dx46VEZr",
-        "pubdate": ""
-      },
-      {
-        "title": "世界最最最烂活",
-        "author": "小潮院长",
-        "play": 2843218,
-        "link": "https://www.bilibili.com/video/BV15YxH6nEku",
-        "pubdate": ""
-      },
-      {
-        "title": "世界上最贵的象拔蚌，客人嫌贵不吃，厨师长下班了开个小灶",
-        "author": "张森的下班料理",
-        "play": 1347644,
-        "link": "https://www.bilibili.com/video/BV1czxC6dEKu",
-        "pubdate": ""
-      },
-      {
-        "title": "镜头之下，皆是生活",
-        "author": "胶与啡Photos",
-        "play": 1108261,
-        "link": "https://www.bilibili.com/video/BV1Qsx46cEG6",
-        "pubdate": ""
-      },
-      {
-        "title": "【返场】乐高车过障碍物",
-        "author": "BEC乐高实验",
-        "play": 881666,
-        "link": "https://www.bilibili.com/video/BV1Zg4g68Ef7",
-        "pubdate": ""
-      },
-      {
-        "title": "以后别说自己不会修鸟图了 进阶教程分享",
-        "author": "塑胶牛奶",
-        "play": 1287559,
-        "link": "https://www.bilibili.com/video/BV1DExa66EW4",
-        "pubdate": ""
-      },
-      {
-        "title": "两个集合间构成了诡异的映射",
-        "author": "LobotD轩轩轩儿",
-        "play": 2276649,
-        "link": "https://www.bilibili.com/video/BV1nfxJ6RENL",
-        "pubdate": ""
-      },
-      {
-        "title": "只有站对角度，才能看见消失的孩子！",
-        "author": "艺术有毒",
-        "play": 1725503,
-        "link": "https://www.bilibili.com/video/BV1B54G6vEfm",
-        "pubdate": ""
-      },
-      {
-        "title": "【时代少年团】系列纪录片《光辉岁月》——“小永远”",
-        "author": "时代少年团",
-        "play": 787918,
-        "link": "https://www.bilibili.com/video/BV1ov4u6WEH4",
-        "pubdate": ""
-      },
-      {
-        "title": "《异环》曳尔沐角色PV丨我们重归于好",
-        "author": "异环",
-        "play": 1284932,
-        "link": "https://www.bilibili.com/video/BV1NWxT6cEWk",
-        "pubdate": ""
-      },
-      {
-        "title": "选一条路，决定你接下来的旅途",
-        "author": "麒麟光谱",
-        "play": 1268046,
-        "link": "https://www.bilibili.com/video/BV1Nax16uEHm",
-        "pubdate": ""
-      },
-      {
-        "title": "【崩铁】星神★阿哈综合测评：献予欢愉之诗！欢愉全体升格！武器对比+技能解读+遗器选择+星魂提升！",
-        "author": "卡特亚",
-        "play": 757857,
-        "link": "https://www.bilibili.com/video/BV1QMxD6FEGi",
-        "pubdate": ""
-      },
-      {
-        "title": "【明日方舟】我把全部剧情做成了 3000 多册五语电子书｜可对照阅读｜可搜台词",
-        "author": "bili_45520585709",
-        "play": 205022,
-        "link": "https://www.bilibili.com/video/BV1rR4A6jEEh",
-        "pubdate": ""
-      },
-      {
-        "title": "《锻刀大赛》神仙打架！全大马锻造泰国战刀 评委舍不得淘汰",
-        "author": "沫子瞪片",
-        "play": 1154790,
-        "link": "https://www.bilibili.com/video/BV1uD4u65Eae",
-        "pubdate": ""
-      },
-      {
-        "title": "挑战不让店员吃外卖第一期：滑蛋鸡腿肉盖饭！小美说还得是新鲜的香！#谢谢侬传承家宴",
-        "author": "谢谢侬老徐",
-        "play": 1146864,
-        "link": "https://www.bilibili.com/video/BV1MQ4u6CEzP",
-        "pubdate": ""
-      },
-      {
-        "title": "清理熊患后续，只因西伯利亚棕熊泛滥成灾。",
-        "author": "方四海Z-路亚",
-        "play": 655650,
-        "link": "https://www.bilibili.com/video/BV13ixh6gEeq",
-        "pubdate": ""
-      },
-      {
-        "title": "参众两院全丢，民主党大翻盘，特朗普的中期大选自刎归天了",
-        "author": "星辰趣味屋",
-        "play": 448686,
-        "link": "https://www.bilibili.com/video/BV1hXxD6FE1Q",
-        "pubdate": ""
-      },
-      {
-        "title": "屋里味太大",
-        "author": "脱缰凯Kk",
-        "play": 1480745,
-        "link": "https://www.bilibili.com/video/BV1CP4G6GE3p",
-        "pubdate": ""
-      },
-      {
-        "title": "BLG八强结算珍贵录像《朝你韩华捏一把》",
-        "author": "九夜听风",
-        "play": 1809430,
-        "link": "https://www.bilibili.com/video/BV1PFx46EEWs",
-        "pubdate": ""
-      },
-      {
-        "title": "当你只能使用吃过的干员打方舟……",
-        "author": "朝阳逆光",
-        "play": 675293,
-        "link": "https://www.bilibili.com/video/BV1rT4g6aEGg",
-        "pubdate": ""
-      },
-      {
-        "title": "猪圈里混进一头伪猪，只有一发子弹，你能找出它吗？",
-        "author": "虾仁不眨眼-游戏直播",
-        "play": 792471,
-        "link": "https://www.bilibili.com/video/BV1k84w6yE78",
         "pubdate": ""
       },
       {
         "title": "魔方土豆兄弟 幺幺妻＆蛤蟆广《Potato Maker》圈米成功结算画面",
         "author": "-白银silver-",
-        "play": 509671,
+        "play": 592172,
         "link": "https://www.bilibili.com/video/BV1CA4g6NE39",
         "pubdate": ""
       },
       {
-        "title": "《明日方舟：终末地》干员叙事 [明河：归客]",
-        "author": "明日方舟终末地",
-        "play": 1074880,
-        "link": "https://www.bilibili.com/video/BV1Dwx26mEb9",
+        "title": "镜头之下，皆是生活",
+        "author": "胶与啡Photos",
+        "play": 1507461,
+        "link": "https://www.bilibili.com/video/BV1Qsx46cEG6",
         "pubdate": ""
       },
       {
-        "title": "这样建？几棵树苗能做什么？【Minecraft】",
-        "author": "一抹深冷蓝",
-        "play": 516388,
-        "link": "https://www.bilibili.com/video/BV1o1xC6DEAa",
+        "title": "挑战不让店员吃外卖第一期：滑蛋鸡腿肉盖饭！小美说还得是新鲜的香！#谢谢侬传承家宴",
+        "author": "谢谢侬老徐",
+        "play": 1312869,
+        "link": "https://www.bilibili.com/video/BV1MQ4u6CEzP",
         "pubdate": ""
       },
       {
-        "title": "跑了八个小时。",
-        "author": "老鼠当大厨",
-        "play": 1151442,
-        "link": "https://www.bilibili.com/video/BV1RbxJ6LEzi",
+        "title": "两把速通双信物！跟全图人机交朋友的来！",
+        "author": "小普-三角洲重生版",
+        "play": 1124841,
+        "link": "https://www.bilibili.com/video/BV1XDxD6hE3X",
         "pubdate": ""
       },
       {
-        "title": "《明日方舟》「卫戍协议：规程」宣传PV",
-        "author": "明日方舟",
-        "play": 967663,
-        "link": "https://www.bilibili.com/video/BV19H4c6cEXi",
+        "title": "屋里味太大",
+        "author": "脱缰凯Kk",
+        "play": 1937021,
+        "link": "https://www.bilibili.com/video/BV1CP4G6GE3p",
         "pubdate": ""
       },
       {
-        "title": "【一百日】第八日:未知通讯",
-        "author": "时空go蛙",
-        "play": 1398634,
-        "link": "https://www.bilibili.com/video/BV13CxW6HECV",
+        "title": "谁是有史以来最能整活的超级天才！",
+        "author": "海棠家的大肥鱼",
+        "play": 1992865,
+        "link": "https://www.bilibili.com/video/BV19sx46cEKB",
         "pubdate": ""
       },
       {
-        "title": "大肥鱼适合做女朋友吗？（2）",
-        "author": "学姐圆",
-        "play": 1291094,
-        "link": "https://www.bilibili.com/video/BV1y5xW63EVq",
-        "pubdate": ""
-      },
-      {
-        "title": "【STN快报第8.5季25】不觉得边缘行者2的预期违背也是一种反抗精神吗",
-        "author": "STN工作室",
-        "play": 743982,
-        "link": "https://www.bilibili.com/video/BV13D4w6cEKG",
-        "pubdate": ""
-      },
-      {
-        "title": "乌萨奇修仙传·极",
-        "author": "是一只哈奇喵",
-        "play": 1246352,
-        "link": "https://www.bilibili.com/video/BV1wh4P6XEkC",
-        "pubdate": ""
-      },
-      {
-        "title": "塔露拉 VS 方舟重量级怪群，统治战场！【明日方舟】",
-        "author": "-碱式碳酸咸鱼-",
-        "play": 897836,
-        "link": "https://www.bilibili.com/video/BV1854w6REWq",
-        "pubdate": ""
-      },
-      {
-        "title": "这还能是童年套圈机！？做成世界大赛！",
-        "author": "M木糖M",
-        "play": 1400050,
-        "link": "https://www.bilibili.com/video/BV16Ux46yEsR",
-        "pubdate": ""
-      },
-      {
-        "title": "原来10后也有自己的老歌了",
-        "author": "三分糖可乐L",
-        "play": 887900,
-        "link": "https://www.bilibili.com/video/BV1xWH56zEb8",
-        "pubdate": ""
-      },
-      {
-        "title": "⚡️⚡️⚡️猫咖倒闭，救救我们⚡️⚡️⚡️",
-        "author": "加美拉一号",
-        "play": 841819,
-        "link": "https://www.bilibili.com/video/BV1rJxG6ME5x",
+        "title": "一口气2个小时看完奇幻韩剧《末路兼职》八种怪谈，夺命兼职！日薪一亿的危险工作你干吗？爆肝三万字！",
+        "author": "不善言辞的秃秃",
+        "play": 879325,
+        "link": "https://www.bilibili.com/video/BV1Zo4c6TEg4",
         "pubdate": ""
       },
       {
         "title": "进了四强很开心，谢谢粉丝们支持",
         "author": "TheShy",
-        "play": 922311,
+        "play": 1248379,
         "link": "https://www.bilibili.com/video/BV1KvxS6XEyp",
         "pubdate": ""
       },
       {
-        "title": "CPOPwave长红IP《原神》",
-        "author": "央视频",
-        "play": 540102,
-        "link": "https://www.bilibili.com/video/BV1Eq4P6mESu",
+        "title": "你恢复一下，我还是喜欢你刚刚桀骜不驯的样子！",
+        "author": "没脸鉴车",
+        "play": 1220452,
+        "link": "https://www.bilibili.com/video/BV1794g6cEsm",
         "pubdate": ""
       },
       {
-        "title": "【邓肯】恐怖的“林夕的娃娃间”事件丨猜不透的“黛西事件”！",
-        "author": "勾手老大爷邓肯",
-        "play": 753046,
-        "link": "https://www.bilibili.com/video/BV1yv4M6vEMa",
+        "title": "晚安小肥鱼",
+        "author": "Dariean",
+        "play": 708296,
+        "link": "https://www.bilibili.com/video/BV12xxX6xE5h",
         "pubdate": ""
       },
       {
-        "title": "今天喝木薯桃胶炖奶",
-        "author": "猫子柒来了",
-        "play": 1686433,
-        "link": "https://www.bilibili.com/video/BV18x4M6rEFM",
+        "title": "盘点猫德学院的败家玩意",
+        "author": "本喵叫兔兔",
+        "play": 483431,
+        "link": "https://www.bilibili.com/video/BV1tRxD6ZEtY",
         "pubdate": ""
       },
       {
-        "title": "MSI冠军16强回家！万字解析BLG零封HLE背后的原因！",
-        "author": "分析师蓝宝石",
-        "play": 1198481,
-        "link": "https://www.bilibili.com/video/BV1JLxh69EgU",
+        "title": "打地铺第一集",
+        "author": "小新博主",
+        "play": 962339,
+        "link": "https://www.bilibili.com/video/BV1XJ4M61E1J",
         "pubdate": ""
       },
       {
-        "title": "【原神一条龙全收集】至冬7.2(更新中)新基捷城+如翼之峰/宝箱/摩拉堆/玉帛/冰之印/原神7.2一条龙",
-        "author": "你的影月月",
-        "play": 520433,
-        "link": "https://www.bilibili.com/video/BV1PyxQ6sEbH",
-        "pubdate": ""
-      },
-      {
-        "title": "跟着君哥在回坊炫烤肉，那叫一个美…",
-        "author": "野文不懂吃",
-        "play": 1035901,
-        "link": "https://www.bilibili.com/video/BV1Ac4c61E2C",
-        "pubdate": ""
-      },
-      {
-        "title": "直播放雨爱给屋顶听通透了",
-        "author": "老飞宇66",
-        "play": 2002141,
-        "link": "https://www.bilibili.com/video/BV1BZ4A65Ef1",
-        "pubdate": ""
-      },
-      {
-        "title": "不看电视不接电话的中国人",
-        "author": "汤山老王",
-        "play": 537957,
-        "link": "https://www.bilibili.com/video/BV15sxS68EFq",
-        "pubdate": ""
-      },
-      {
-        "title": "假如其他宇宙的灭霸穿越到爱慕贼宇宙",
-        "author": "川崎斐济桃",
-        "play": 606251,
-        "link": "https://www.bilibili.com/video/BV16X4A6mE62",
-        "pubdate": ""
-      },
-      {
-        "title": "我勒个睡梦罗汉枪！抗日神剧惊现神级弱智操作，这看完谁能绷得住",
-        "author": "文西与阿漆",
-        "play": 976169,
-        "link": "https://www.bilibili.com/video/BV1NP4A6pEiy",
-        "pubdate": ""
-      },
-      {
-        "title": "莽村-但是社会摇MV【多梦综合征】【AI MV大赛】",
-        "author": "多梦综合征",
-        "play": 738105,
-        "link": "https://www.bilibili.com/video/BV1AT4c6rEPE",
-        "pubdate": ""
-      },
-      {
-        "title": "冷知识:没 长 眼 睛 不 要 来 开  车 ！",
-        "author": "与山0v0",
-        "play": 916919,
-        "link": "https://www.bilibili.com/video/BV12j4F61Em7",
-        "pubdate": ""
-      },
-      {
-        "title": "小众美食吃法实力排行",
-        "author": "东方日出哇",
-        "play": 1021760,
-        "link": "https://www.bilibili.com/video/BV1Ttxp6CEc6",
+        "title": "《明日方舟：终末地》干员叙事 [明河：归客]",
+        "author": "明日方舟终末地",
+        "play": 1111634,
+        "link": "https://www.bilibili.com/video/BV1Dwx26mEb9",
         "pubdate": ""
       },
       {
         "title": "简析offer8：孩子们！葬送综艺吧！",
         "author": "玉玉__",
-        "play": 824801,
+        "play": 1139868,
         "link": "https://www.bilibili.com/video/BV13N436XEix",
         "pubdate": ""
       },
       {
-        "title": "我有一个……能看到他人信任度的超能力",
-        "author": "Mr-Ferret",
-        "play": 825391,
-        "link": "https://www.bilibili.com/video/BV12Y4g6yEkT",
+        "title": "你不会觉得这是人吧？",
+        "author": "青浦模子",
+        "play": 1055560,
+        "link": "https://www.bilibili.com/video/BV1vix26sEoK",
         "pubdate": ""
       },
       {
-        "title": "互联网小天使降临在社团迎新！",
-        "author": "双酱牛肉ovo",
-        "play": 300509,
-        "link": "https://www.bilibili.com/video/BV16t4F6MEFu",
+        "title": "在日本体验24小时穷富生活，预算相差100倍！差距究竟有多离谱？",
+        "author": "平平出击",
+        "play": 1032981,
+        "link": "https://www.bilibili.com/video/BV1FXxS63Eie",
         "pubdate": ""
       },
       {
-        "title": "耗资上万！我重制了网页版MC！【B站AI创造公开赛】",
-        "author": "土豆味小哲",
-        "play": 479667,
-        "link": "https://www.bilibili.com/video/BV1Nxxr6oES2",
+        "title": "【邓肯】恐怖的“林夕的娃娃间”事件丨猜不透的“黛西事件”！",
+        "author": "勾手老大爷邓肯",
+        "play": 883167,
+        "link": "https://www.bilibili.com/video/BV1yv4M6vEMa",
         "pubdate": ""
       },
       {
-        "title": "4941抽，67塔露拉",
-        "author": "夜孑L",
-        "play": 487913,
-        "link": "https://www.bilibili.com/video/BV1Gpxs6REwB",
+        "title": "《复仇者联盟 78》番外 三国杀",
+        "author": "肥仔yea",
+        "play": 699972,
+        "link": "https://www.bilibili.com/video/BV1MvxQ6hE1g",
         "pubdate": ""
       },
       {
-        "title": "只要那个目标还未达成，我就不会停下",
-        "author": "铃沐木_",
-        "play": 459067,
-        "link": "https://www.bilibili.com/video/BV16X4A6mEJr",
-        "pubdate": ""
-      },
-      {
-        "title": "导弹般坠机9人死亡：但为何什么也不会改变？",
-        "author": "波士顿圆脸",
-        "play": 789676,
-        "link": "https://www.bilibili.com/video/BV1jz4w6BEzp",
-        "pubdate": ""
-      },
-      {
-        "title": "复仇者！集结！",
-        "author": "杨洋羊抽象王子",
-        "play": 1245916,
-        "link": "https://www.bilibili.com/video/BV1vR4M6QEwv",
+        "title": "今天喝木薯桃胶炖奶",
+        "author": "猫子柒来了",
+        "play": 1865240,
+        "link": "https://www.bilibili.com/video/BV18x4M6rEFM",
         "pubdate": ""
       },
       {
         "title": "吓哭了！冲碎天钉！钟离史上最帅高光！什么天钉、圣土化？还以为是减速带呢！钟离先其它七神和六国一步，直接出手用一枚摩拉通关僭继试炼过场动画！还让闲云传递情报",
         "author": "不当咕咕咕的鸽子",
-        "play": 797901,
+        "play": 1054632,
         "link": "https://www.bilibili.com/video/BV14qxS6HEwZ",
         "pubdate": ""
       },
       {
-        "title": "96万人看过的啃玉米",
-        "author": "织影不吃香菜",
-        "play": 411658,
-        "link": "https://www.bilibili.com/video/BV1S6xh6iEMj",
+        "title": "花20万卢比买顶级高蛋白营养餐，老板急了",
+        "author": "印度老吃家",
+        "play": 1422020,
+        "link": "https://www.bilibili.com/video/BV1oU4M6dErj",
         "pubdate": ""
       },
       {
-        "title": "BLG：雪原双子回归！",
-        "author": "聒噪的山海君",
-        "play": 942623,
-        "link": "https://www.bilibili.com/video/BV1Q34P6vEhw",
+        "title": "我有一个……能看到他人信任度的超能力",
+        "author": "Mr-Ferret",
+        "play": 970020,
+        "link": "https://www.bilibili.com/video/BV12Y4g6yEkT",
+        "pubdate": ""
+      },
+      {
+        "title": "花生与葱花 幕后&互动",
+        "author": "hanser",
+        "play": 364229,
+        "link": "https://www.bilibili.com/video/BV1mJ4w6HE29",
+        "pubdate": ""
+      },
+      {
+        "title": "两个集合间构成了诡异的映射",
+        "author": "LobotD轩轩轩儿",
+        "play": 2466526,
+        "link": "https://www.bilibili.com/video/BV1nfxJ6RENL",
+        "pubdate": ""
+      },
+      {
+        "title": "康康炸猪排 外酥里嫩",
+        "author": "李大厨教做菜",
+        "play": 542617,
+        "link": "https://www.bilibili.com/video/BV1sAxQ6pE3Y",
+        "pubdate": ""
+      },
+      {
+        "title": "全球笑点下降2000倍而我不变【第二集】",
+        "author": "逗比的雀巢",
+        "play": 1688180,
+        "link": "https://www.bilibili.com/video/BV1TxxC6vEo4",
+        "pubdate": ""
+      },
+      {
+        "title": "小猫以前的工作很辛苦吧",
+        "author": "Caesar-Cat",
+        "play": 892169,
+        "link": "https://www.bilibili.com/video/BV1ew436REXT",
+        "pubdate": ""
+      },
+      {
+        "title": "三年之期已到，恭迎世一上归位！【第16集】",
+        "author": "九夜听风",
+        "play": 837106,
+        "link": "https://www.bilibili.com/video/BV1FNxm6iEDp",
+        "pubdate": ""
+      },
+      {
+        "title": "网 恋 VS 奔 现",
+        "author": "伢伢gagako",
+        "play": 1102447,
+        "link": "https://www.bilibili.com/video/BV1dw4V6YEBc",
+        "pubdate": ""
+      },
+      {
+        "title": "世界上最贵的象拔蚌，客人嫌贵不吃，厨师长下班了开个小灶",
+        "author": "张森的下班料理",
+        "play": 1222971,
+        "link": "https://www.bilibili.com/video/BV1czxC6dEKu",
+        "pubdate": ""
+      },
+      {
+        "title": "【本家】ラズベリー - 重音テト【カササギ】",
+        "author": "カササギ_柿崎ユウタ",
+        "play": 205410,
+        "link": "https://www.bilibili.com/video/BV1r2sR6dEBw",
+        "pubdate": ""
+      },
+      {
+        "title": "我找到了本世纪最上头的渣男之歌",
+        "author": "朱不语yup",
+        "play": 583856,
+        "link": "https://www.bilibili.com/video/BV1mC4N6aEFc",
+        "pubdate": ""
+      },
+      {
+        "title": "【大肥鱼】《secret base ～君がくれたもの～》未闻花名 ED 翻唱❀🐋",
+        "author": "你的鱼胆真是肥嘟嘟的",
+        "play": 436671,
+        "link": "https://www.bilibili.com/video/BV1K9xv65EQC",
+        "pubdate": ""
+      },
+      {
+        "title": "早知道就想好再买了…",
+        "author": "小杨Johnson",
+        "play": 958832,
+        "link": "https://www.bilibili.com/video/BV1ZwxR6SE89",
+        "pubdate": ""
+      },
+      {
+        "title": "百人寂静村大混战，这才是真·多人生化！",
+        "author": "eBronTower",
+        "play": 1394811,
+        "link": "https://www.bilibili.com/video/BV1aR4P6KERQ",
+        "pubdate": ""
+      },
+      {
+        "title": "蓝潮来袭：民主党参众、州选横扫，懂王进入跛脚鸭时间",
+        "author": "波士顿圆脸",
+        "play": 909375,
+        "link": "https://www.bilibili.com/video/BV121x96aEHi",
+        "pubdate": ""
+      },
+      {
+        "title": "学习时间到！最癫的中文填词！“班级中得勾心斗角 让我见证到生物的奇妙”[feat.重音tetoSV]",
+        "author": "纸质火车票",
+        "play": 337536,
+        "link": "https://www.bilibili.com/video/BV1MyxW6DEXc",
+        "pubdate": ""
+      },
+      {
+        "title": "假如其他宇宙的灭霸穿越到爱慕贼宇宙",
+        "author": "川崎斐济桃",
+        "play": 696472,
+        "link": "https://www.bilibili.com/video/BV16X4A6mE62",
+        "pubdate": ""
+      },
+      {
+        "title": "带猫狗去动物园，没想到路上差点中毒",
+        "author": "Yui柯基大聪明",
+        "play": 1370154,
+        "link": "https://www.bilibili.com/video/BV1qExQ6GEq4",
+        "pubdate": ""
+      },
+      {
+        "title": "【短片大芬】以后",
+        "author": "抽象貂先生",
+        "play": 515274,
+        "link": "https://www.bilibili.com/video/BV1aCxZ6JEbc",
+        "pubdate": ""
+      },
+      {
+        "title": "7点50，大肥鱼催你上早八",
+        "author": "双叶吸咖喱",
+        "play": 819333,
+        "link": "https://www.bilibili.com/video/BV1PyxS62Ei3",
+        "pubdate": ""
+      },
+      {
+        "title": "原神又一名梗诞生",
+        "author": "Happy_Twins",
+        "play": 1532824,
+        "link": "https://www.bilibili.com/video/BV1NxxX64Epa",
+        "pubdate": ""
+      },
+      {
+        "title": "只要那个目标还未达成，我就不会停下",
+        "author": "铃沐木_",
+        "play": 544038,
+        "link": "https://www.bilibili.com/video/BV16X4A6mEJr",
+        "pubdate": ""
+      },
+      {
+        "title": "大模型坦克动荡 Astra vs Fable",
+        "author": "洛神赋丿丿",
+        "play": 1061034,
+        "link": "https://www.bilibili.com/video/BV1Q84A6YEiV",
+        "pubdate": ""
+      },
+      {
+        "title": "猪圈里混进一头伪猪，只有一发子弹，你能找出它吗？",
+        "author": "虾仁不眨眼-游戏直播",
+        "play": 824691,
+        "link": "https://www.bilibili.com/video/BV1k84w6yE78",
+        "pubdate": ""
+      },
+      {
+        "title": "『补档一次』“我怕超影？”",
+        "author": "魔导师泥沼",
+        "play": 808820,
+        "link": "https://www.bilibili.com/video/BV1q54g6oE4i",
+        "pubdate": ""
+      },
+      {
+        "title": "致命ID",
+        "author": "煎饼郭子-无畏契约",
+        "play": 1579448,
+        "link": "https://www.bilibili.com/video/BV1iWx962E71",
+        "pubdate": ""
+      },
+      {
+        "title": "一句 “我画地为牢啊厉娜”！揭开埋藏十五年的超女意难平《后会友期》许飞厉娜线解说版",
+        "author": "做个稀巴烂",
+        "play": 952053,
+        "link": "https://www.bilibili.com/video/BV13vx96uE5h",
+        "pubdate": ""
+      },
+      {
+        "title": "以后别说自己不会修鸟图了 进阶教程分享",
+        "author": "塑胶牛奶",
+        "play": 1097145,
+        "link": "https://www.bilibili.com/video/BV1DExa66EW4",
         "pubdate": ""
       }
     ],
-    "B站搜索_大学生活_近30天按播放": [
-      {
-        "title": "大学的生活费，究竟多少合适？#大学生 #生活费 #剧情",
-        "author": "新年快乐日日为新年",
-        "play": 5309230,
-        "danmaku": 19,
-        "link": "http://www.bilibili.com/video/av117414305994075",
-        "pubdate": "2026-10-10"
-      },
-      {
-        "title": "这期很有教育意义…",
-        "author": "我不是王子龙",
-        "play": 3533676,
-        "danmaku": 952,
-        "link": "http://www.bilibili.com/video/av117438851062637",
-        "pubdate": "2026-10-14"
-      },
-      {
-        "title": "【麻糬的大学生活｜家教篇】咪在城里找了体面工作",
-        "author": "麻糬不糯",
-        "play": 1856775,
-        "danmaku": 19,
-        "link": "http://www.bilibili.com/video/av117529733237362",
-        "pubdate": "2026-10-30"
-      },
-      {
-        "title": "大学10块钱，怎么活一个月教程",
-        "author": "何英东一号",
-        "play": 1849454,
-        "danmaku": 918,
-        "link": "http://www.bilibili.com/video/av117478428580064",
-        "pubdate": "2026-10-21"
-      },
-      {
-        "title": "24岁美国乡下大学天才&quot;讲师&quot;：叛逆狂人的潇洒生活！",
-        "author": "街头小小小霸王",
-        "play": 1621641,
-        "danmaku": 9360,
-        "link": "http://www.bilibili.com/video/av117478126586757",
-        "pubdate": "2026-10-21"
-      },
-      {
-        "title": "德国大学给我分配了个女盆友？",
-        "author": "土豆外交官",
-        "play": 1509566,
-        "danmaku": 1212,
-        "link": "http://www.bilibili.com/video/av117421973247634",
-        "pubdate": "2026-10-11"
-      },
-      {
-        "title": "【锦宝大学Vlog】🐱室友说想吃螃蟹，小猫忙活了一上午",
-        "author": "锦宝的日常生活",
-        "play": 1199311,
-        "danmaku": 82,
-        "link": "http://www.bilibili.com/video/av117454520980740",
-        "pubdate": "2026-10-17"
-      },
-      {
-        "title": "诡秘 试问谁能拒绝在放假时看上一期酣畅淋漓的韩国上学vlog？",
-        "author": "愚蠢小刘",
-        "play": 1119370,
-        "danmaku": 208,
-        "link": "http://www.bilibili.com/video/av117388821402822",
-        "pubdate": "2026-10-14"
-      },
-      {
-        "title": "大学里的幸福瞬间",
-        "author": "小哥小-",
-        "play": 1025899,
-        "danmaku": 321,
-        "link": "http://www.bilibili.com/video/av117470945873221",
-        "pubdate": "2026-10-23"
-      },
-      {
-        "title": "怎么和话少、不善于表达的同学沟通，把东西卖他？！（大学生就业指导之返乡摆摊卖菜）",
-        "author": "嘴比饺子馅儿碎",
-        "play": 937352,
-        "danmaku": 243,
-        "link": "http://www.bilibili.com/video/av117489585360229",
-        "pubdate": "2026-10-23"
-      },
-      {
-        "title": "现在的大学都玩得那么野了？",
-        "author": "矮乐多Aliga",
-        "play": 846424,
-        "danmaku": 1727,
-        "link": "http://www.bilibili.com/video/av117392260727193",
-        "pubdate": "2026-10-06"
-      },
-      {
-        "title": "媚上欺下这一块,致我们眼神最清澈的武汉大学生!",
-        "author": "莫实说",
-        "play": 798468,
-        "danmaku": 2111,
-        "link": "http://www.bilibili.com/video/av117546174909403",
-        "pubdate": "2026-11-02"
-      },
-      {
-        "title": "大学生靠“代充电瓶车”赚生活费，单次20元、年卡499元，均包含充电费用。当事人：能帮助别人，自己也能赚生活费。",
-        "author": "群众新闻",
-        "play": 798271,
-        "danmaku": 60,
-        "link": "http://www.bilibili.com/video/av117477942038845",
-        "pubdate": "2026-10-21"
-      },
-      {
-        "title": "三个大学生做装机教程，最后竟做出了三千万播放！硬件茶谈怎么把B站科技区卷疯了？",
-        "author": "为啥越吃越少_可带",
-        "play": 712614,
-        "danmaku": 101,
-        "link": "http://www.bilibili.com/video/av117478982160690",
-        "pubdate": "2026-10-22"
-      },
-      {
-        "title": "大学生不该沉迷的十款游戏",
-        "author": "武川城外",
-        "play": 671228,
-        "danmaku": 1257,
-        "link": "http://www.bilibili.com/video/av117453967399725",
-        "pubdate": "2026-10-17"
-      },
-      {
-        "title": "周小闹～大学宿舍系列（在外少说话）",
-        "author": "分享快乐专家",
-        "play": 650324,
-        "danmaku": 0,
-        "link": "http://www.bilibili.com/video/av117482304048234",
-        "pubdate": "2026-10-22"
-      },
-      {
-        "title": "“大学宿舍生活十大必备神器”",
-        "author": "生活解忧室",
-        "play": 622326,
-        "danmaku": 1,
-        "link": "http://www.bilibili.com/video/av117502084384529",
-        "pubdate": "2026-10-25"
-      },
-      {
-        "title": "致敬武汉清澈的大学生",
-        "author": "blan布莱克",
-        "play": 620034,
-        "danmaku": 779,
-        "link": "http://www.bilibili.com/video/av117545134784536",
-        "pubdate": "2026-11-02"
-      },
-      {
-        "title": "假如你生活在十万人的宿舍营",
-        "author": "唐朝乐",
-        "play": 598306,
-        "danmaku": 872,
-        "link": "http://www.bilibili.com/video/av117522787469671",
-        "pubdate": "2026-10-30"
-      },
-      {
-        "title": "大学生活费到底给多少合适？",
-        "author": "皇马酱",
-        "play": 582524,
-        "danmaku": 162,
-        "link": "http://www.bilibili.com/video/av117432962255805",
-        "pubdate": "2026-10-13"
-      }
-    ],
-    "B站搜索_考研_近30天按播放": [
-      {
-        "title": "⚡️刘晓艳的宿命对决⚡️",
-        "author": "考研英语晓燕",
-        "play": 3142209,
-        "danmaku": 10004,
-        "link": "http://www.bilibili.com/video/av117449303268214",
-        "pubdate": "2026-10-16"
-      },
-      {
-        "title": "《高等数学》教学视频｜3.0版｜宋浩老师",
-        "author": "宋浩老师官方",
-        "play": 2204378,
-        "danmaku": 8401,
-        "link": "http://www.bilibili.com/video/av117447558433259",
-        "pubdate": "2026-10-16"
-      },
-      {
-        "title": "我没指望你们这些人能理解四六级！",
-        "author": "小普-三角洲重生版",
-        "play": 2167118,
-        "danmaku": 166,
-        "link": "http://www.bilibili.com/video/av117478176856042",
-        "pubdate": "2026-10-21"
-      },
-      {
-        "title": "最逆天的一节课！！",
-        "author": "张飞的小迷弟",
-        "play": 1841322,
-        "danmaku": 14515,
-        "link": "http://www.bilibili.com/video/av117511060265638",
-        "pubdate": "2026-10-27"
-      },
-      {
-        "title": "选择题连着三个 C，第四题还会是 C 吗？｜4000 道真题数了一遍",
-        "author": "算法之外_",
-        "play": 1699857,
-        "danmaku": 528,
-        "link": "http://www.bilibili.com/video/av117516110137118",
-        "pubdate": "2026-10-28"
-      },
-      {
-        "title": "请选择你的考研对手（本视频由Viduq4生成）",
-        "author": "回溯奶猫",
-        "play": 1390557,
-        "danmaku": 152,
-        "link": "http://www.bilibili.com/video/av1506506428",
-        "pubdate": "2026-10-30"
-      },
-      {
-        "title": "马克思就是这个意思！",
-        "author": "涛言涛语123",
-        "play": 1337160,
-        "danmaku": 3234,
-        "link": "http://www.bilibili.com/video/av117444286881659",
-        "pubdate": "2026-10-15"
-      },
-      {
-        "title": "别犹豫，先去做，大脑干净了才走得快！",
-        "author": "科学慢聊联盟",
-        "play": 1263356,
-        "danmaku": 149,
-        "link": "http://www.bilibili.com/video/av117477488987210",
-        "pubdate": "2026-10-21"
-      },
-      {
-        "title": "学会了张老师 身份证原来还能这么办",
-        "author": "KazeLeon",
-        "play": 992363,
-        "danmaku": 96,
-        "link": "http://www.bilibili.com/video/av117439723475329",
-        "pubdate": "2026-10-14"
-      },
-      {
-        "title": "2027为何被称为史诗大年？18个历史节点扎堆！",
-        "author": "闪过为梦想加速",
-        "play": 905672,
-        "danmaku": 902,
-        "link": "http://www.bilibili.com/video/av117432224121747",
-        "pubdate": "2026-10-13"
-      },
-      {
-        "title": "“其实，人人都可以是张雪峰”",
-        "author": "48块",
-        "play": 901380,
-        "danmaku": 25,
-        "link": "http://www.bilibili.com/video/av117447591987821",
-        "pubdate": "2026-10-15"
-      },
-      {
-        "title": "我985保研，世界名校程序员，但仍被AI打败，两次被大厂辞退，只能挂壁在家自寻出路【探照灯计划】",
-        "author": "摩的司机徐师傅",
-        "play": 820471,
-        "danmaku": 7953,
-        "link": "http://www.bilibili.com/video/av117456198697394",
-        "pubdate": "2026-10-18"
-      },
-      {
-        "title": "《大学里的强制实习》",
-        "author": "小辛影视追剧",
-        "play": 804840,
-        "danmaku": 0,
-        "link": "http://www.bilibili.com/video/av117402578720492",
-        "pubdate": "2026-10-08"
-      },
-      {
-        "title": "暗黑LIKE游戏还有高手？解决暗黑游戏痛点，爆率高不考研，真给我刷爽了",
-        "author": "老芒果OL",
-        "play": 803188,
-        "danmaku": 428,
-        "link": "http://www.bilibili.com/video/av117398921349856",
-        "pubdate": "2026-10-07"
-      },
-      {
-        "title": "2027肖秀荣《背诵手册》带背课程-Day1",
-        "author": "肖秀荣教授",
-        "play": 753043,
-        "danmaku": 3541,
-        "link": "http://www.bilibili.com/video/av117415732058844",
-        "pubdate": "2026-10-10"
-      },
-      {
-        "title": "没有让座的义务",
-        "author": "爆炸小蜜蜂",
-        "play": 709884,
-        "danmaku": 84,
-        "link": "http://www.bilibili.com/video/av117461986837616",
-        "pubdate": "2026-10-18"
-      },
-      {
-        "title": "双非大学为什么要招博士辅导员？",
-        "author": "淘淘酱酱",
-        "play": 682913,
-        "danmaku": 167,
-        "link": "http://www.bilibili.com/video/av117411487419248",
-        "pubdate": "2026-10-09"
-      },
-      {
-        "title": "儿子考研考出487分，不料妈妈竟说：谁让你考研的，让你打火影！",
-        "author": "新派世角",
-        "play": 673969,
-        "danmaku": 38,
-        "link": "http://www.bilibili.com/video/av117522938466469",
-        "pubdate": "2026-11-01"
-      },
-      {
-        "title": "当我明天想休息时：",
-        "author": "涛言涛语123",
-        "play": 647677,
-        "danmaku": 599,
-        "link": "http://www.bilibili.com/video/av117431301313896",
-        "pubdate": "2026-10-13"
-      },
-      {
-        "title": "完美时间线",
-        "author": "抽象生活先生",
-        "play": 607715,
-        "danmaku": 207,
-        "link": "http://www.bilibili.com/video/av117468093750114",
-        "pubdate": "2026-10-19"
-      }
-    ]
+    "B站搜索_大学生活_近30天按播放": [],
+    "B站搜索_考研_近30天按播放": []
   },
   "stat": {
     "抖音热点榜": 50,
     "B站全站热门榜": 100,
-    "B站搜索_大学生活_近30天按播放": 20,
-    "B站搜索_考研_近30天按播放": 20
+    "B站搜索_大学生活_近30天按播放": 0,
+    "B站搜索_考研_近30天按播放": 0
   }
 }
